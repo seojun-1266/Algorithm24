@@ -7,4 +7,4 @@ num = int(input("숫자를 입력하시오"))
 if num < 0:
     print("잘못입력하셨습니다.")
 else:
-    print(f"{num}!는 {factorial(num)}입니다.")
+    print(f"{num}!는 {factorial(num)}입니다.") 

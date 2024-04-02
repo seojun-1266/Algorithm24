@@ -9,4 +9,4 @@ def factorial(n):
             result *= i
         return result
 num = int(input("숫자를 입력하세요 "))
-print(f"{num}!는 {factorial(num)}입니다.")
+print(f"{num}!는 {factorial(num)}입니다.") 
